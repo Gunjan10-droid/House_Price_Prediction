@@ -12,14 +12,11 @@ Predicting house sale prices using Machine Learning regression techniques.
 ## 🔧 Steps Performed
 1. Exploratory Data Analysis (EDA)
 2. Handling Missing Values — Drop high missing columns, fill with median/mode
-3. Feature Engineering — TotalSF, TotalBath, HouseAge, RemodAge
-4. Label Encoding for categorical columns
-5. Model Training — Random Forest Regressor
-6. Hyperparameter Tuning — GridSearchCV
+3. Label Encoding for categorical columns
+4. Model Training — Random Forest Regressor
 
 ## 🤖 Model Used
 - Random Forest Regressor
-- Best Params: max_depth=None, min_samples_split=2, n_estimators=100
 
 ## 📈 Results
 | Metric | Score |
